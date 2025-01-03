@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'faraday'
-require 'pry'
 
 require 'concurrent-edge'
 require 'concurrent'
